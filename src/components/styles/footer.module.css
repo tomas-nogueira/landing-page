@@ -1,0 +1,13 @@
+footer{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+.img {
+    height: 30px;
+    cursor: pointer;
+}
+.marcenaria{
+    color: black;
+    font-size: 18px;
+}

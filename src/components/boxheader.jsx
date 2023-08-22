@@ -6,6 +6,7 @@ function Boxheader (props){
       <span>HOME</span>
       <span>SERVIÇOS</span>
       <span>SOBRE NÓS</span>
+      <span className={Style.orcamento}>ORÇAMENTO</span>
     </div>
   )
 }

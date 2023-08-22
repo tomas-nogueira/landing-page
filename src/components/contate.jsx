@@ -3,10 +3,11 @@ import Style from "./styles/contate.module.css"
 
 function Contate (props){
   return (
-    <div>
+    <div className={Style.contact}>
       <span>CONTATE-NOS</span>
-        <Inputcontato type="text" placeholder="Name" name= "Name"/>
-        <Inputcontato type="email" placeholder="Email" name="Email"/>
+        <Inputcontato type="text" placeholder="Name" name= "Name" titulo="Name"/>
+        <Inputcontato type="email" placeholder="Email" name="Email" titulo="Email"/>
+        <Inputcontato type="tel" placeholder="tel" name="tel" titulo="Telefone"/>
     </div>
   )
 }

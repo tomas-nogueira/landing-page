@@ -1,0 +1,30 @@
+.textop h1{
+    color: white;
+    font-size: 60px;
+    font-weight: normal;
+}
+h2{
+    color: white;
+    font-size: 60px;
+    font-weight: normal;
+}
+.textop {
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 14rem;
+}
+p{
+    font-size: 35px;
+    color: white;
+}
+.sonhos{
+    background-color: #683C17;
+    border-radius: 10px;
+    font-size: 60px;
+    margin-left: 20px;
+    -webkit-box-shadow: 0px 2px 21px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 21px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 21px 0px rgba(0,0,0,0.75);
+}
