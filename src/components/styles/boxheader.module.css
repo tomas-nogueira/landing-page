@@ -1,0 +1,10 @@
+span{
+    font-size: 30px;
+    color: white;
+}
+.divmain{
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10rem;
+}

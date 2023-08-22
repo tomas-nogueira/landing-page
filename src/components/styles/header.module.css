@@ -1,0 +1,17 @@
+body{
+    background-color: #6C594A;
+    height: 100vh;
+}
+header {
+    height: 15vh;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: end;
+}
+.teste {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 35rem;
+}
